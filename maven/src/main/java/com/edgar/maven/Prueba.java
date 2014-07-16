@@ -92,7 +92,7 @@ public class Prueba implements Serializable {
     @Override
     public String toString() {
         return "Prueba{" + "id=" + id + ", nombre=" + nombre + ", sueldo=" + sueldo + '}';
-    }
+    }  
 
     
     
